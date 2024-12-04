@@ -1,4 +1,4 @@
-# praktikum 8
+# LAB 8
 # DATA DIRI
 Nama : RO'UF MUHAMMAD FAUZAN
 
