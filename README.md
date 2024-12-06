@@ -1,5 +1,4 @@
 # LAB 8
-# DATA DIRI
 Nama : RO'UF MUHAMMAD FAUZAN
 
 Kelas : TI.24.A1
