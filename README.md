@@ -6,7 +6,12 @@ Kelas : TI.24.A1
 
 NIM : 312410157
 
-# input dan output dari Praktikum 8
+# Flowchart, input dan output dari Praktikum 8
+## Flowcart
+![flowcart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
+
+![flowcart ke2 praktikum 8 jpg](https://github.com/user-attachments/assets/d791f6c7-7cde-4b6f-946d-1eeb42a077dc)
+
 ## Input
 ```Python
 class DaftarMahasiswa:
@@ -182,10 +187,7 @@ Pilih menu (1/2/3/4/5): 5
 Terima kasih! Program selesai.
 PS C:\Users\Sheila Antica\Documents\pemrogaman praktikum 8>
 ```
-## Flowcart
-![flowcart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
 
-![flowcart ke2 praktikum 8 jpg](https://github.com/user-attachments/assets/d791f6c7-7cde-4b6f-946d-1eeb42a077dc)
 ## Penjelasan
 1. Class DaftarMahasiswa:
 Class ini menyimpan data mahasiswa dalam bentuk list (data_mahasiswa). Setiap mahasiswa disimpan sebagai dictionary dengan dua kunci: "nama" dan "nilai".
