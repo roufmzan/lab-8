@@ -6,10 +6,10 @@ Kelas : TI.24.A1
 NIM : 312410157
 
 # Flowchart, code dan output dari Praktikum 8
-## Flowcart
-![flowcart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
+## Flowchart
+![flowchart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
 
-![flowcart ke2 praktikum 8 jpg](https://github.com/user-attachments/assets/d791f6c7-7cde-4b6f-946d-1eeb42a077dc)
+![flowchart ke2 praktikum 8 jpg](https://github.com/user-attachments/assets/d791f6c7-7cde-4b6f-946d-1eeb42a077dc)
 
 ## code
 <img src="code.png" width=50% height=50%>
